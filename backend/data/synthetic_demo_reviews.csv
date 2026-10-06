@@ -1,0 +1,61 @@
+review_id,product_id,reviewer_id,rating,review_date,review_text,label
+demo-001,demo-product-01,demo-reviewer-01,3,2026-09-01,"After using it for two weeks, the brush head picked up cereal from the rug. The filter was easy to rinse.  Setup took about ten minutes.",0
+demo-002,demo-product-02,demo-reviewer-02,3,2026-09-02,"After using it for two weeks, the left ear cup stayed comfortable on my train ride. The microphone sounded clear on two calls.  Setup took about ten minutes.",0
+demo-003,demo-product-03,demo-reviewer-03,3,2026-09-03,"After using it for two weeks, the timer started the brew before my 7 am alarm. The carafe poured without dripping.  Setup took about ten minutes.",0
+demo-004,demo-product-04,demo-reviewer-04,3,2026-09-04,"After using it for two weeks, the hinge held its angle above my workbench. The warm setting was comfortable for reading.  Setup took about ten minutes.",0
+demo-005,demo-product-05,demo-reviewer-05,3,2026-09-05,"After using it for two weeks, the lid stayed dry in the side pocket of my bag. The bottle fit the cup holder in my car.  Setup took about ten minutes.",0
+demo-006,demo-product-06,demo-reviewer-06,3,2026-09-06,"After using it for two weeks, the raised edge protected the screen when it fell from the sofa. The buttons still clicked easily.  Setup took about ten minutes.",0
+demo-007,demo-product-07,demo-reviewer-07,3,2026-09-07,"After using it for two weeks, it boiled 500 ml in about three minutes at home. The handle stayed cool while pouring.  Setup took about ten minutes.",0
+demo-008,demo-product-08,demo-reviewer-08,3,2026-09-08,"After using it for two weeks, a 14 inch laptop fit in the padded sleeve. The zipper did not catch on the lining.  Setup took about ten minutes.",0
+demo-009,demo-product-09,demo-reviewer-09,3,2026-09-09,"After using it for two weeks, the seat remained comfortable through a two hour meeting. The height lever worked smoothly.  Setup took about ten minutes.",0
+demo-010,demo-product-10,demo-reviewer-10,3,2026-09-10,"After using it for two weeks, two thick slices browned evenly on setting three. The crumb tray slid out without a mess.  Setup took about ten minutes.",0
+demo-011,demo-product-01,demo-reviewer-11,4,2026-09-11,"In my small apartment, the brush head picked up cereal from the rug. The filter was easy to rinse.  I would have preferred a longer cable.",0
+demo-012,demo-product-02,demo-reviewer-12,4,2026-09-12,"In my small apartment, the left ear cup stayed comfortable on my train ride. The microphone sounded clear on two calls.  I would have preferred a longer cable.",0
+demo-013,demo-product-03,demo-reviewer-13,4,2026-09-13,"In my small apartment, the timer started the brew before my 7 am alarm. The carafe poured without dripping.  I would have preferred a longer cable.",0
+demo-014,demo-product-04,demo-reviewer-14,4,2026-09-14,"In my small apartment, the hinge held its angle above my workbench. The warm setting was comfortable for reading.  I would have preferred a longer cable.",0
+demo-015,demo-product-05,demo-reviewer-15,4,2026-09-15,"In my small apartment, the lid stayed dry in the side pocket of my bag. The bottle fit the cup holder in my car.  I would have preferred a longer cable.",0
+demo-016,demo-product-06,demo-reviewer-16,4,2026-09-16,"In my small apartment, the raised edge protected the screen when it fell from the sofa. The buttons still clicked easily.  I would have preferred a longer cable.",0
+demo-017,demo-product-07,demo-reviewer-17,4,2026-09-17,"In my small apartment, it boiled 500 ml in about three minutes at home. The handle stayed cool while pouring.  I would have preferred a longer cable.",0
+demo-018,demo-product-08,demo-reviewer-01,4,2026-09-18,"In my small apartment, a 14 inch laptop fit in the padded sleeve. The zipper did not catch on the lining.  I would have preferred a longer cable.",0
+demo-019,demo-product-09,demo-reviewer-02,4,2026-09-19,"In my small apartment, the seat remained comfortable through a two hour meeting. The height lever worked smoothly.  I would have preferred a longer cable.",0
+demo-020,demo-product-10,demo-reviewer-03,4,2026-09-20,"In my small apartment, two thick slices browned evenly on setting three. The crumb tray slid out without a mess.  I would have preferred a longer cable.",0
+demo-021,demo-product-01,demo-reviewer-04,4,2026-09-21,I bought this for my office and the brush head picked up cereal from the rug. The filter was easy to rinse.  The instructions were clear.,0
+demo-022,demo-product-02,demo-reviewer-05,4,2026-09-22,I bought this for my office and the left ear cup stayed comfortable on my train ride. The microphone sounded clear on two calls.  The instructions were clear.,0
+demo-023,demo-product-03,demo-reviewer-06,4,2026-09-23,I bought this for my office and the timer started the brew before my 7 am alarm. The carafe poured without dripping.  The instructions were clear.,0
+demo-024,demo-product-04,demo-reviewer-07,4,2026-09-24,I bought this for my office and the hinge held its angle above my workbench. The warm setting was comfortable for reading.  The instructions were clear.,0
+demo-025,demo-product-05,demo-reviewer-08,4,2026-09-25,I bought this for my office and the lid stayed dry in the side pocket of my bag. The bottle fit the cup holder in my car.  The instructions were clear.,0
+demo-026,demo-product-06,demo-reviewer-09,4,2026-09-26,I bought this for my office and the raised edge protected the screen when it fell from the sofa. The buttons still clicked easily.  The instructions were clear.,0
+demo-027,demo-product-07,demo-reviewer-10,4,2026-09-27,I bought this for my office and it boiled 500 ml in about three minutes at home. The handle stayed cool while pouring.  The instructions were clear.,0
+demo-028,demo-product-08,demo-reviewer-11,4,2026-09-28,I bought this for my office and a 14 inch laptop fit in the padded sleeve. The zipper did not catch on the lining.  The instructions were clear.,0
+demo-029,demo-product-09,demo-reviewer-12,4,2026-09-01,I bought this for my office and the seat remained comfortable through a two hour meeting. The height lever worked smoothly.  The instructions were clear.,0
+demo-030,demo-product-10,demo-reviewer-13,4,2026-09-02,I bought this for my office and two thick slices browned evenly on setting three. The crumb tray slid out without a mess.  The instructions were clear.,0
+demo-031,demo-product-01,demo-reviewer-14,5,2026-09-03,"Wonderful vacuum, amazing product and perfect quality! Life changing and the best ever! Five stars, must buy!",1
+demo-032,demo-product-02,demo-reviewer-15,5,2026-09-04,"Wonderful headphones, amazing product and perfect quality! Life changing and the best ever! Five stars, must buy!",1
+demo-033,demo-product-03,demo-reviewer-16,5,2026-09-05,"Wonderful coffee maker, amazing product and perfect quality! Life changing and the best ever! Five stars, must buy!",1
+demo-034,demo-product-04,demo-reviewer-17,5,2026-09-06,"Wonderful desk lamp, amazing product and perfect quality! Life changing and the best ever! Five stars, must buy!",1
+demo-035,demo-product-05,demo-reviewer-01,5,2026-09-07,"Wonderful water bottle, amazing product and perfect quality! Life changing and the best ever! Five stars, must buy!",1
+demo-036,demo-product-06,demo-reviewer-02,5,2026-09-08,"Wonderful phone case, amazing product and perfect quality! Life changing and the best ever! Five stars, must buy!",1
+demo-037,demo-product-07,demo-reviewer-03,5,2026-09-09,"Wonderful kettle, amazing product and perfect quality! Life changing and the best ever! Five stars, must buy!",1
+demo-038,demo-product-08,demo-reviewer-04,5,2026-09-10,"Wonderful backpack, amazing product and perfect quality! Life changing and the best ever! Five stars, must buy!",1
+demo-039,demo-product-09,demo-reviewer-05,5,2026-09-11,"Wonderful desk chair, amazing product and perfect quality! Life changing and the best ever! Five stars, must buy!",1
+demo-040,demo-product-10,demo-reviewer-06,5,2026-09-12,"Wonderful toaster, amazing product and perfect quality! Life changing and the best ever! Five stars, must buy!",1
+demo-041,demo-product-01,demo-reviewer-07,5,2026-09-13,"Five stars! I love this perfect vacuum. Excellent quality, best product ever, must buy now! 100% recommend!",1
+demo-042,demo-product-02,demo-reviewer-08,5,2026-09-14,"Five stars! I love this perfect headphones. Excellent quality, best product ever, must buy now! 100% recommend!",1
+demo-043,demo-product-03,demo-reviewer-09,5,2026-09-15,"Five stars! I love this perfect coffee maker. Excellent quality, best product ever, must buy now! 100% recommend!",1
+demo-044,demo-product-04,demo-reviewer-10,5,2026-09-16,"Five stars! I love this perfect desk lamp. Excellent quality, best product ever, must buy now! 100% recommend!",1
+demo-045,demo-product-05,demo-reviewer-11,5,2026-09-17,"Five stars! I love this perfect water bottle. Excellent quality, best product ever, must buy now! 100% recommend!",1
+demo-046,demo-product-06,demo-reviewer-12,5,2026-09-18,"Five stars! I love this perfect phone case. Excellent quality, best product ever, must buy now! 100% recommend!",1
+demo-047,demo-product-07,demo-reviewer-13,5,2026-09-19,"Five stars! I love this perfect kettle. Excellent quality, best product ever, must buy now! 100% recommend!",1
+demo-048,demo-product-08,demo-reviewer-14,5,2026-09-20,"Five stars! I love this perfect backpack. Excellent quality, best product ever, must buy now! 100% recommend!",1
+demo-049,demo-product-09,demo-reviewer-15,5,2026-09-21,"Five stars! I love this perfect desk chair. Excellent quality, best product ever, must buy now! 100% recommend!",1
+demo-050,demo-product-10,demo-reviewer-16,5,2026-09-22,"Five stars! I love this perfect toaster. Excellent quality, best product ever, must buy now! 100% recommend!",1
+demo-051,demo-product-01,demo-reviewer-17,5,2026-09-23,"Amazing amazing amazing vacuum! Perfect, excellent, wonderful, best ever! Buy now, five stars, highly recommend!",1
+demo-052,demo-product-02,demo-reviewer-01,5,2026-09-24,"Amazing amazing amazing headphones! Perfect, excellent, wonderful, best ever! Buy now, five stars, highly recommend!",1
+demo-053,demo-product-03,demo-reviewer-02,5,2026-09-25,"Amazing amazing amazing coffee maker! Perfect, excellent, wonderful, best ever! Buy now, five stars, highly recommend!",1
+demo-054,demo-product-04,demo-reviewer-03,5,2026-09-26,"Amazing amazing amazing desk lamp! Perfect, excellent, wonderful, best ever! Buy now, five stars, highly recommend!",1
+demo-055,demo-product-05,demo-reviewer-04,5,2026-09-27,"Amazing amazing amazing water bottle! Perfect, excellent, wonderful, best ever! Buy now, five stars, highly recommend!",1
+demo-056,demo-product-06,demo-reviewer-05,5,2026-09-28,"Amazing amazing amazing phone case! Perfect, excellent, wonderful, best ever! Buy now, five stars, highly recommend!",1
+demo-057,demo-product-07,demo-reviewer-06,5,2026-09-01,"Amazing amazing amazing kettle! Perfect, excellent, wonderful, best ever! Buy now, five stars, highly recommend!",1
+demo-058,demo-product-08,demo-reviewer-07,5,2026-09-02,"Amazing amazing amazing backpack! Perfect, excellent, wonderful, best ever! Buy now, five stars, highly recommend!",1
+demo-059,demo-product-09,demo-reviewer-08,5,2026-09-03,"Amazing amazing amazing desk chair! Perfect, excellent, wonderful, best ever! Buy now, five stars, highly recommend!",1
+demo-060,demo-product-10,demo-reviewer-09,5,2026-09-04,"Amazing amazing amazing toaster! Perfect, excellent, wonderful, best ever! Buy now, five stars, highly recommend!",1
